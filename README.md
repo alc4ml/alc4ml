@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **alc4ml/alc4ml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 👋 Hi, I'm Marcel Morel ADJALLA
+
+🎓 Master’s student in Data Mathematics at Université Sorbonne Paris Nord (EUR Math & CS).  
+💡 Passionate about Data Science, Machine Learning, and AI Research.  
+🧠 Strong background in mathematics, probability, and applied computing.  
+
+
+📫 Contact me: moreladjalla@gmail.com
