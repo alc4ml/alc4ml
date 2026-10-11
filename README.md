@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 ## 👋 Hi, I'm Marcel Morel ADJALLA
 
-🎓 Master’s student in Data Mathematics at Université Sorbonne Paris Nord (EUR Math & CS).  
-💡 Passionate about Data Science, Machine Learning, and AI Research.  
+🎓 PhD Student in Computer Vision at L2TI.  
+💡 Passionate about Machine Learning, and AI Research.  
 🧠 Strong background in mathematics, probability, and applied computing.  
 
 
